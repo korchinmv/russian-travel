@@ -33,10 +33,10 @@ li {
 }
 
 img {
-	height: auto;
-	max-width: 100%;
 	display: block;
+	height: auto;
 	object-fit: cover;
+	max-width: 100%;
 }
 
 a {

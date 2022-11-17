@@ -1,0 +1,9 @@
+.hero__inner {
+	padding-top: 56px;
+}
+
+@media screen and (max-width: 1024px) {
+	.hero__inner {
+		padding-top: 48px;
+	}
+}
