@@ -23,3 +23,14 @@
 @import url(./blocks/hero/__img/hero__img.css);
 @import url(./blocks/hero/__img-wrapper/hero__img-wrapper.css);
 @import url(./blocks/hero/__caption/hero__caption.css);
+
+@import url(./blocks/intro/intro.css);
+@import url(./blocks/intro/__title/intro__title.css);
+@import url(./blocks/intro/__text/intro__text.css);
+@import url(./blocks/intro/__item/intro__item.css);
+@import url(./blocks/intro/__num/intro__num.css);
+
+@import url(./blocks/gallery/gallery.css);
+@import url(./blocks/gallery/__photo/gallery__photo.css);
+
+@import url(./blocks/places/places.css);
