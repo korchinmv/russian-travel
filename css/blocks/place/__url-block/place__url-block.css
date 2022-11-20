@@ -1,0 +1,9 @@
+.place__url-block {
+	align-self: flex-end;
+}
+
+@media screen and (max-width: 520px) {
+	.place__url-block {
+		align-self: flex-start;
+	}
+}

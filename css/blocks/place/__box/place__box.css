@@ -1,0 +1,10 @@
+.place__box {
+	flex: 1 1 450px
+}
+
+@media screen and (max-width: 520px) {
+	.place__box {
+		flex-basis: auto;
+		padding: 0 16px;
+	}
+}
