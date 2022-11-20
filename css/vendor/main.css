@@ -43,3 +43,7 @@ a {
 	text-decoration-color: transparent;
 	color: inherit;
 }
+
+abbr[title] {
+	text-decoration: none;
+}
