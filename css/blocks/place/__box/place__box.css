@@ -1,5 +1,5 @@
 .place__box {
-	flex: 1 1 450px
+	flex: 1 1 450px;
 }
 
 @media screen and (max-width: 520px) {
