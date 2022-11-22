@@ -1,0 +1,11 @@
+.container_full-wide {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 0 50px;
+}
+
+@media screen and (max-width: 1024px) {
+	.container_full-wide {
+		padding: 0;
+	}
+}

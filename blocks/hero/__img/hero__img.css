@@ -1,0 +1,6 @@
+.hero__img {
+	max-width: 1085px;
+	margin: 0 auto 8px auto;
+	width: 100%;
+	z-index: 1;
+}
