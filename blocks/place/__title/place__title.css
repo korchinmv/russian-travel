@@ -4,12 +4,11 @@
 	line-height: 1.06;
 	max-width: 460px;
 	width: 100%;
-	margin-right: 40px;
 }
 
 @media screen and (max-width: 1024px) {
 	.place__title {
-		margin-right: 30px;
+		max-width: 440px;
 	}
 }
 
@@ -17,14 +16,19 @@
 	.place__title {
 		font-size: 42px;
 		line-height: 1.1;
-		max-width: 340px;
+		max-width: 328px;
+	}
+}
+
+@media screen and (max-width: 620px) {
+	.place__title {
+		padding: 0 16px;
 	}
 }
 
 @media screen and (max-width: 520px) {
 	.place__title {
 		font-size: 32px;
-		margin-bottom: 32px;
 		margin-right: 0;
 	}
 }
