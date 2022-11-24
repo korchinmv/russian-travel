@@ -1,0 +1,9 @@
+.hero__img {
+	display: block;
+	height: auto;
+	object-fit: cover;
+	max-width: 984px;
+	margin: 0 auto 8px auto;
+	width: 100%;
+	z-index: 1;
+}

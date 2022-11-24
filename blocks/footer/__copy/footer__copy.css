@@ -1,0 +1,12 @@
+.footer__copy {
+	font-size: 14px;
+	line-height: 1.1;
+	flex-shrink: 0;
+	margin: 0;
+}
+
+@media screen and (max-width: 425px) {
+	.footer__copy {
+		align-self: flex-start;
+	}
+}

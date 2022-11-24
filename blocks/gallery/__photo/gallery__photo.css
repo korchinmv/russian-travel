@@ -1,0 +1,7 @@
+.gallery__photo {
+    display: block;
+    height: auto;
+    object-fit: cover;
+    max-width: 100%;
+    width: 100%;
+}

@@ -1,0 +1,11 @@
+.place__content {
+	display: flex;
+	justify-content: space-between;
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 520px) {
+	.place__content {
+		flex-direction: column;
+	}
+}

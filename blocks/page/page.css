@@ -1,0 +1,9 @@
+.page {
+  box-sizing: border-box;
+  background-color: #2a2c2f;
+  color: #fff;
+  font-family: "Inter", sans-serif;
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 1.6;
+}

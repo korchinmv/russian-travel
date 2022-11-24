@@ -1,0 +1,16 @@
+.gallery {
+	margin: 0 auto;
+	width: calc(100% - 2 * 48px);
+}
+
+@media screen and (max-width: 768px) {
+	.gallery {
+		width: calc(100% - 2 * 24px);
+	}
+}
+
+@media screen and (max-width: 425px) {
+	.gallery {
+		width: calc(100% - 2 * 16px);
+	}
+}
