@@ -1,7 +1,9 @@
 .place__link {
+	color: inherit;
 	font-size: 18px;
 	line-height: 1.2;
 	position: relative;
+	text-decoration: none;
 }
 
 .place__link::before {

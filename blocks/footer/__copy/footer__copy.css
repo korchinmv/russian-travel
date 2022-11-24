@@ -2,6 +2,7 @@
 	font-size: 14px;
 	line-height: 1.1;
 	flex-shrink: 0;
+	margin: 0;
 }
 
 @media screen and (min-width: 321px) and (max-width: 520px) {

@@ -1,3 +1,10 @@
+.place__img {
+	display: block;
+	height: auto;
+	object-fit: cover;
+	max-width: 100%;
+}
+
 @media screen and (max-width: 620px) {
 	.place__img {
 		width: 100%;

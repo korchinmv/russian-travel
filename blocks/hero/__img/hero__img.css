@@ -1,4 +1,7 @@
 .hero__img {
+	display: block;
+	height: auto;
+	object-fit: cover;
 	max-width: 1085px;
 	margin: 0 auto 8px auto;
 	width: 100%;
