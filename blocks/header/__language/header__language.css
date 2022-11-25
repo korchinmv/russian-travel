@@ -1,5 +1,8 @@
 .header__language {
+	display: flex;
+	column-gap: 18px;
 	align-items: flex-end;
+	padding: 0;
 	margin: 0;
 	list-style: none;
 }
