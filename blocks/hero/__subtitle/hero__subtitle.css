@@ -16,8 +16,13 @@
 
 @media screen and (max-width: 768px) {
 	.hero__subtitle {
-		font-size: 22px;
 		padding: 0 16px;
+	}
+}
+
+@media screen and (max-width: 720px) {
+	.hero__subtitle {
+		font-size: 22px;
 	}
 }
 
