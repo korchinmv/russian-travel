@@ -8,10 +8,10 @@
 	list-style: none;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
 	.footer__list {
-		flex-direction: column;
 		row-gap: 32px;
+		flex-direction: column;
 		margin-right: 0;
 		column-gap: 0;
 	}

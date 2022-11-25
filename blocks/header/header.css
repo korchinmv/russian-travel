@@ -1,9 +1,22 @@
 .header {
-	padding-top: 30px;
+	box-sizing: border-box;
+	display: flex;
+	justify-content: space-between;
+	min-width: 288px;
+	max-width: 1284px;
+	padding: 30px 50px 0 50px;
+	margin: 0 auto;
+}
+
+@media screen and (max-width: 768px) {
+	.header {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
 }
 
 @media screen and (max-width: 320px) {
 	.header {
-		padding-top: 16px;
+		padding: 16px 16px 0 16px;
 	}
 }

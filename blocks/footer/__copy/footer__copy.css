@@ -5,12 +5,6 @@
 	margin: 0;
 }
 
-@media screen and (min-width: 321px) and (max-width: 520px) {
-	.footer__copy {
-		align-self: flex-end;
-	}
-}
-
 @media screen and (max-width: 425px) {
 	.footer__copy {
 		align-self: flex-start;

@@ -1,10 +1,9 @@
 .hero__img-wrapper {
-	padding: 0 50px;
-	max-width: 1085px;
+	max-width: 984px;
 	margin: 0 auto;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 768px) {
 	.hero__img-wrapper {
 		max-width: 100%;
 		padding: 0;
